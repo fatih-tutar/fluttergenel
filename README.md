@@ -1,6 +1,6 @@
-# burc_rehberi
+# Flutter Dersleri
 
-A new Flutter application.
+Bu repositoryde bu zamana kadar yapılanlar topluca gösterilmiştir. Bundan sonra yapılacaklar ayrı ayrı repositorylere koyulacaktır.
 
 ## Getting Started
 
